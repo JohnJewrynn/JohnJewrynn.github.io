@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Love Story</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Sun, 02 Jan 2022 10:32:42 +0800</pubDate>
+        <lastBuildDate>Sun, 02 Jan 2022 10:32:42 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/01/02/The%20First%20Page/</guid>
+            <title>The First Page</title>
+            <link>http://example.com/2022/01/02/The%20First%20Page/</link>
+            <pubDate>Sun, 02 Jan 2022 10:32:42 +0800</pubDate>
+            <description><![CDATA[ &lt;h4 id=&#34;hi这里是宁宁日志系统的第一篇文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hi这里是宁宁日志系统的第一篇文章&#34;&gt;#&lt;/a&gt; Hi！这里是宁宁日志系统的第一篇文章&lt;/h4&gt;
+&lt;p&gt;​	垚垚和宁宁于&lt;strong&gt; 2021 年 7 月 2 日&lt;/strong&gt;相识相知，于&lt;strong&gt; 2021 年 9 月 21 日&lt;/strong&gt;在一起（中秋节哦！）迄今为止发生了很多很多有趣的事情，充满着爱情的酸甜苦辣，本笔者致力于将这些点点滴滴记录下来，一是为了宁宁的生日，二是作为我们爱情的反思与收获，激励着我们继续走下去，彼此依靠，并从中成长。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
